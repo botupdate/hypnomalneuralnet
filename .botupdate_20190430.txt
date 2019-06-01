@@ -3,6 +3,7 @@
 # /etc/hypno.rc
 # TYPE: ASCII ENGLISH
 # VERNACULAR: 21st CENTURY, AMERICAN
+
 # date: 20190531.1 C.E.(ANNO  DOMINI)
 # Owner: david patrone (willyb)
 # Author: (dave, brian, issac)
